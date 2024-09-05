@@ -1,2 +1,2 @@
 # Crud-MY-OFFICE
- O primeiro  Floripa CRUD Festival 2024, que é um concurso para eleger o melhor software de  gerenciamento de informação da cidade.
+Sistema de CRUD  2024 com geração de relatórios a partir dos dados armazenados.
